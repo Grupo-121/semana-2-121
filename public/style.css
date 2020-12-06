@@ -1,0 +1,25 @@
+.page-footers{
+    height: 100%100%;
+    background-image: url('img/footer.jpeg');
+    bottom: 0px;
+    
+    /* position: fixed; */
+    /* width: 1200px; */
+}
+.footer-url > a{
+    color: yellow; }
+.text-correo{
+    padding: 10px;
+    /* text-align: justify;*/
+    bottom: 0;
+    color:yellow;}
+.text-footer{
+    height: 100%;
+    width: 100%;
+}
+.col-2{
+    width: 45%;
+    height: 150px;
+    display: inline;
+  
+        
